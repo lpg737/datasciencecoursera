@@ -1,6 +1,6 @@
-## this is a header
+## Header created through Git Bash
 
-blah blah
+Nothing really interesting
 
-* test1
-* test2
+* Line 1
+* Line 2
